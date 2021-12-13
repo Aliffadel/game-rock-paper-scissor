@@ -1,0 +1,527 @@
+html,
+
+/* @media (max-width :768px) {
+  
+}
+@media (max-width :576px) {
+  
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 135vh;
+  position: relative;
+}
+
+
+
+  .Typography Font{
+    width: 1441.55px;
+    height: 960.14px;
+    left: -1.55px;
+    top: 0.11px;
+    
+    background: radial-gradient(189.96% 61.18% at 50% 38.82%, rgba(255, 181, 72, 0) 0%, rgba(52, 44, 29, 0.80319) 73.22%, #08090A 99.74%);
+  }
+
+ 
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 1);
+
+}
+
+.carousel-indicators button {
+  width: 10px;
+  height: 15px;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0);
+}
+.btn-link {
+  width: 348.2px;
+height: 38.23px;
+left: 809.29px;
+top: 439.6px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: justify;
+letter-spacing: 2px;
+
+color: #FFB548;;
+}
+
+.card-body {
+left: 58.44%;
+right: 16.42%;
+top: 50.32%;
+bottom: 41.58%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* or 122% */
+
+text-align: justify;
+
+color: #FFFFFF;
+
+}
+
+.form-group {
+  margin-bottom: 0;
+}
+
+.btn-custom{
+  height: 100%;
+}
+
+.example-banner {
+    /* max-width: 3000px; */
+    height: 550px;
+    margin: 0 auto 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.example-banner h1 {
+position: absolute;
+height: 73.12px;
+left: 9.22%;
+right: 10.47%;
+top: calc(50% - 73.12px/2 - 130.06px);
+
+font-family: Arial;
+font-style: normal;
+font-weight: bold;
+font-size: 63px;
+line-height: 83px;
+text-align: center;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+margin: 25px auto auto auto;
+    
+}
+
+.example-banner h3 {
+    margin: 0 auto auto auto;
+
+position: absolute;
+left: 33.84%;
+right: 29.66%;
+top: 46.23%;
+bottom: 50.89%;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+letter-spacing: 2px;
+
+color: #FFFFFF;
+    
+}
+.font-menu {
+  color: white;
+}
+
+.background-color {
+  opacity: 1;
+}
+
+.myButton {
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:4px;
+	border:1px solid #ffaa22;
+	/* display:inline-block; */
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:4px 70px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+  width: auto;
+  margin: 110px 80px auto auto;
+  
+}
+
+.triangle{
+  margin: 190px auto auto auto;
+  
+}
+
+.portfolio{
+  height: 800px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+
+.set-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+}
+
+.background-2{
+  position: relative;
+}
+.page-2{
+  position: absolute;
+  color: #F0E9D2;
+  top: 250px;
+  
+}
+
+.caro{
+  position: absolute;
+}
+
+.background-3{
+  position: relative;
+}
+
+.features h3 {
+position: absolute;
+left: 55.52%;
+right: 26.29%;
+top: 20.96%;
+bottom: 70.16%;
+margin-left: 10px;
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+letter-spacing: 2px;
+
+color: #FFFFFF;
+
+}
+
+.features h1 {
+  position: absolute;
+height: 73.64px;
+left: 56.05%;
+right: 16.22%;
+top: calc(42% - 73.64px/2 - 147.97px);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 100px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+.accord {
+  position: absolute;
+  margin: 350px auto auto 450px;
+}
+.features-1 h1 {
+  position: absolute;
+width: 348.2px;
+height: 38.23px;
+left: 809.29px;
+top: 439.6px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 2px;
+
+color: #FFB548;
+
+}
+
+.features-1 h6 {
+position: absolute;
+left: 62.9%;
+right: 16.4%;
+top: 50.32%;
+bottom: 41.58%;
+margin: 40px -50px auto auto ;
+/* margin: 1000px auto auto 750px; */
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* or 122% */
+
+text-align: justify;
+
+color: #FFFFFF;
+}
+
+.features-2 p {
+  position: absolute;
+width: 366.44px;
+height: 38.23px;
+left: 842.04px;
+top: 588.45px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 2px;
+
+color: #FFB548;
+
+}
+
+.features-3 p {
+  position: absolute;
+width: 348.2px;
+height: 38.23px;
+left: 842.04px;
+top: 663.39px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 2px;
+
+color: #FFB548;
+
+}
+
+.requirements h1 {
+  position: absolute;
+left: 39.27%;
+right: 36.26%;
+top: 15.12%;
+bottom: 82%;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 2px;
+
+color: #FFFFFF;
+
+}
+
+
+.requirements h3 {
+  position: absolute;
+height: 73.64px;
+left: 9.02%;
+right: 47.07%;
+top: calc(50% - 73.64px/2 - 216.05px);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+/* requirement start */
+.background-4 {
+  position: relative;
+}
+
+.requirements h3 {
+  position: absolute;
+left: 39.27%;
+right: 36.26%;
+top: 15.12%;
+bottom: 82%;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
+
+.requirements h1 {
+  position: absolute;
+height: 73.64px;
+left: 9.02%;
+right: 47.07%;
+top: calc(50% - 73.64px/2 - 216.05px);
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.content-page4 {
+  padding: 200px 200px;
+  color: white;
+}
+.sysreq-title {
+  color: #ffb548;
+  font-weight: bold;
+}
+
+.table-sysreq {
+  margin: auto auto;
+}
+.sysreq-atas {
+  margin-top: auto auto;
+  font-size: 1.25rem;
+}
+
+.text-18 {
+  color: white;
+}
+
+.text-56 {
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 56px;
+line-height: 64px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+/* requirements end */
+
+/* top scores start */
+/* .reviewer-card {
+  background-color: #423F3E;
+  border-radius: 10px;
+}
+
+.reviewer-image {
+  /* object-fit: none; */
+  /* object-position: center; */
+  /* height: 50px;
+  width: 50px;
+  box-shadow: 5px 5px goldenrod;
+} */ */
+.ts-m {
+  margin-left: 15rem;
+}
+.review-cards {
+  margin: 10rem auto;
+}
+.reviewer-card {
+  background-color: #423f3e;
+  border-radius: 10px;
+}
+.reviewer-image {
+  height: 63%;
+  width: 63%;
+  box-shadow: 5px 5px goldenrod;
+}
+.card-name {
+  color: #ffb548;
+}
+.btn-all {
+  position: absolute;
+  box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:4px;
+	border:1px solid #ffaa22;
+	/* display:inline-block; */
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:4px 70px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+  width: auto;
+  margin: 110px 80px auto auto;
+}
+/* top scores end */
+
+/* subscribe start */
+#subscribe {
+  background: #080a0b;
+}
+.form-floating {
+  width: 25em;
+}
+.form-control {
+  color: #ffb548;
+}
+.white-bar {
+  padding: 1px 0 1px 0;
+}
+
+.content-page6 {
+  padding-top: 100px;
+}
+
+/* subscribe end */
+
+.footer {
+  margin-top: 15%;
+}
+.footer-button {
+  margin: 3%;
+}
+
+
+
+
+
+/* .myButton:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.myButton:active {
+	position:relative;
+	top:100px;
+} */
